@@ -1,0 +1,7 @@
+{
+  "name": "Aether Analytica",
+  "description": "The Multimodal World Insight Engine. Understand your reality in seconds with deep AI reasoning and professional reporting.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
